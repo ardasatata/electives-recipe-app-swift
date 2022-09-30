@@ -1,0 +1,111 @@
+[{
+        "id": 1,
+        "name": "Okonomiyaki",
+        "time": 30,
+        "difficulty": "Medium",
+        "calories": 527,
+        "ingredients": [
+            "1 egg",
+            "60g plain flour",
+            "1 tsp vegetable bouillon powder",
+            "200g green cabbage, finely shredded",
+            "1 tbsp vegetable oil",
+            "100g cooked pork belly, thinly sliced into bite-sized pieces"
+        ],
+        "steps": [
+            "Crack the egg into a large bowl and tip in the flour, bouillon powder and 100ml water. Mix well. Stir in the shredded cabbage and season well.",
+            "Heat the oil in a small, deep frying pan or skillet (ours was around 19cm) over a medium heat and fry the pork belly slices for 4-5 mins until golden and the fat has rendered. Pour the cabbage mixture over, stir everything together and fry for 5 mins until dark brown underneath and semi-cooked. Flip and cook for 5 mins more.",
+            "Meanwhile, make the sauce by whisking all the ingredients. Season lightly.",
+            "When the okonomiyaki is cooked, transfer to a serving plate and top with the sauce, mayo, green nori, spring onions and katsuobushi, if using."
+        ],
+        "image": "https://user-images.githubusercontent.com/17568508/193011216-de2146cd-694d-448d-b6c7-bc9766e50728.png"
+    },
+    {
+        "id": 2,
+        "name": "Caesar pitta",
+        "time": 10,
+        "difficulty": "Easy",
+        "calories": 461,
+        "ingredients": [
+            "1 tsp lemon juice",
+            "½ small garlic clove , crushed",
+            "1 tbsp fat-free Greek yogurt",
+            "1 tbsp lighter mayonnaise",
+            "¼ tsp mustard powder",
+            "1 brown anchovy , rinsed and finely chopped",
+            "½ tbsp grated parmesan",
+            "1 small skinless cooked chicken breast, or 80g cooked chicken, shredded",
+            "¼ small cucumber , cubed",
+            "3 cherry tomatoes , halved",
+            "4 Little Gem lettuce leaves, shredded",
+            "1 wholemeal pitta bread"
+        ],
+        "steps": [
+            "Whisk the lemon juice, garlic, yogurt, mayonnaise, mustard powder, anchovy, parmesan and 2-3 tbsp water together with a good grinding of black pepper. Toss in the chicken, cucumber, tomatoes and lettuce, until everything is well coated. Toast the pitta and split, then stuff with the salad and chicken mixture."
+        ],
+        "image": "avpng_korean-taco-pita-caesar-salad-wrap-falafel](https://user-images.githubusercontent.com/17568508/193011719-6af79c40-a146-49f1-948e-088ffa358eae.png"
+    },
+    {
+        "id": 3,
+        "name": "Chicken Caesar salad",
+        "time": 30,
+        "difficulty": "Easy",
+        "calories": 633,
+        "ingredients": [
+            "1 medium ciabatta loaf (or 4 thick slices crusty white bread)",
+            "3 tbsp olive oil",
+            "2 skinless, boneless chicken breasts",
+            "1 large cos or romaine lettuce, leaves separated",
+            "1 garlic clove",
+            "2 anchovies from a tin",
+            "5 tbsp mayonnaise",
+            "1 tbsp white wine vinegar"
+        ],
+        "steps": [
+            "Mix 200g self-raising flour, 1 ½ tsp baking powder, 1 tbsp golden caster sugar and a pinch of salt together in a large bowl.",
+            "Create a well in the centre with the back of your spoon then add 3 large eggs, 25g melted butter and 200ml milk.",
+            "Whisk together either with a balloon whisk or electric hand beaters until smooth then pour into a jug.",
+            "Heat a small knob of butter and 1 tsp of oil in a large, non-stick frying pan over a medium heat. When the butter looks frothy, pour in rounds of the batter, approximately 8cm wide. Make sure you don’t put the pancakes too close together as they will spread during cooking. Cook the pancakes on one side for about 1-2 mins or until lots of tiny bubbles start to appear and pop on the surface. Flip the pancakes over and cook for a further minute on the other side. Repeat until all the batter is used up.",
+            "Serve your pancakes stacked up on a plate with a drizzle of maple syrup and any of your favourite toppings."
+        ],
+        "image": "https://user-images.githubusercontent.com/17568508/193012223-3aa9f7b2-e553-463e-86b0-f433ce4d3f04.png"
+    },
+    {
+        "id": 4,
+        "name": "Beef rendang & turmeric rice",
+        "time": 120,
+        "difficulty": "Medium",
+        "calories": 1405,
+        "ingredients": [
+            "3 tbsp vegetable oil",
+            "2kg beef shin or skirt, cut into bite-sized cubes",
+            "2 lemongrass stalks, bashed (see 'Tip' for how to prepare)",
+            "2 x 400ml cans coconut milk",
+            "4 tbsp desiccated coconut",
+            "2 kaffir lime leaves, torn",
+            "1 ½ tbsp chicken stock powder (we used one from an Asian supermarket)",
+            "2 tbsp tamarind paste",
+            "1 tsp golden caster sugar",
+            "¼ tsp salt",
+            "15 dry chillies",
+            "6-8 baby shallots",
+            "thumb-sized piece ginger, chopped",
+            "thumb-sized piece galangal, peeled and chopped (use ginger if you can’t find it)",
+            "3 lemongrass stalks, chopped",
+            "2 tbsp oil",
+            "2 tsp mustard seeds",
+            "2 tsp turmeric",
+            "10 curry leaves (optional)",
+            "700g jasmine rice",
+            "2 tsp chicken stock powder"
+        ],
+        "steps": [
+            "For the paste, soak the chillies in boiling water for 15 mins. Drain, remove seeds and whizz with the rest of the paste ingredients in a small food processor until smooth.",
+            "Heat the oil in a wok or a heavy-based flameproof casserole dish. Fry the paste for 5 mins until the aroma is released. Add the beef and the lemongrass, and mix well. Once the beef starts to lose its pinkness, add the coconut milk and 250ml water. Bring to the boil, then lower to a simmer, uncovered. Stir occasionally to avoid sticking, and more often towards the end.",
+            "Meanwhile, toast the coconut in a frying pan on a low heat for 5-7 mins until golden brown. Set aside to cool. Using a blender, coarsely blend it to finer pieces – but not too fine. Put to one side.",
+            "After 2 hrs, add the coconut, kaffir lime leaves, chicken stock powder, tamarind paste, sugar and salt to the pan. Simmer for 30 mins more. You should start to see the oil separating from the mix. It’s ready when the meat is tender and almost falling apart.",
+            "For the rice, use a heavy-based saucepan with a lid. Heat the oil in the pan and add the mustard seeds. Once the seeds start popping, add the turmeric, curry leaves (if using) and rice, and mix well. Add the chicken stock and 1 litre of water. Bring to the boil, then turn down to the lowest simmer and cook, covered, for 5 mins. Remove from the heat, with the lid on and leave to steam for 25 mins."
+        ],
+        "image": "https://user-images.githubusercontent.com/17568508/193012527-19928d8a-d732-4dfa-8fd6-e5501ca7ff68.png"
+    }
+]

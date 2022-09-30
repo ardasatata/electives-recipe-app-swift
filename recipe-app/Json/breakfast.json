@@ -1,0 +1,66 @@
+[{
+        "id": 1,
+        "name": "Omelette",
+        "time": 5,
+        "difficulty": "Easy",
+        "calories": 120,
+        "ingredients": [
+            "3 eggs, beaten",
+            "1 tsp sunflower oil",
+            "1 tsp butter"
+        ],
+        "steps": [
+            "Season the beaten eggs well with salt and pepper. Heat the oil and butter in a non-stick frying pan over a medium-low heat until the butter has melted and is foaming.",
+            "Pour the eggs into the pan, tilt the pan ever so slightly from one side to another to allow the eggs to swirl and cover the surface of the pan completely. Let the mixture cook for about 20 seconds then scrape a line through the middle with a spatula.",
+            "Tilt the pan again to allow it to fill back up with the runny egg. Repeat once or twice more until the egg has just set.",
+            "At this point you can fill the omelette with whatever you like – some grated cheese, sliced ham, fresh herbs, sautéed mushrooms or smoked salmon all work well. Scatter the filling over the top of the omelette and fold gently in half with the spatula. Slide onto a plate to serve."
+        ],
+        "image": "https://user-images.githubusercontent.com/17568508/192869178-b09954dc-7dcf-4cb4-865d-6fcee6a1d005.png"
+    },
+    {
+        "id": 2,
+        "name": "French toast",
+        "time": 20,
+        "difficulty": "Easy",
+        "calories": 401,
+        "ingredients": [
+            "2 large eggs",
+            "80ml whole milk",
+            "1 tsp vanilla extract",
+            "½ tsp cinnamon",
+            "4 thick slices brioche",
+            "2 tbsp vegetable oil",
+            "icing sugar and fresh berries, to serve (optional)"
+        ],
+        "steps": [
+            "Whisk together the eggs, milk, cream, vanilla and cinnamon. Lay the brioche slices in a single layer in a shallow dish and pour the egg mixture over them. Allow to soak for 2-3 mins, then carefully turn over and soak for 2 mins more.",
+            "Heat 1 tbsp of the vegetable oil and butter in a non-stick frying pan over a medium heat until foaming. Carefully lift 2 slices of the soaked brioche out of the dish and add to the frying pan. Fry for 3 mins on each side, until golden and crisp, then place on a wire rack over a baking tray in a warm oven while you repeat with the remaining slices.",
+            "Serve dusted in icing sugar and scattered with fresh berries, if you like."
+        ],
+        "image": "https://user-images.githubusercontent.com/17568508/193009930-2759d034-cd3e-427d-8ea8-a264df429b63.png"
+    },
+    {
+        "id": 3,
+        "name": "American pancakes",
+        "time": 50,
+        "difficulty": "Easy",
+        "calories": 356,
+        "ingredients": [
+            "200g self-raising flour",
+            "1 ½ tsp baking powder",
+            "1 tbsp golden caster sugar",
+            "3 large eggs",
+            "25g melted butter, plus extra for cooking",
+            "200ml milk",
+            "vegetable oil, for cooking"
+        ],
+        "steps": [
+            "Mix 200g self-raising flour, 1 ½ tsp baking powder, 1 tbsp golden caster sugar and a pinch of salt together in a large bowl.",
+            "Create a well in the centre with the back of your spoon then add 3 large eggs, 25g melted butter and 200ml milk.",
+            "Whisk together either with a balloon whisk or electric hand beaters until smooth then pour into a jug.",
+            "Heat a small knob of butter and 1 tsp of oil in a large, non-stick frying pan over a medium heat. When the butter looks frothy, pour in rounds of the batter, approximately 8cm wide. Make sure you don’t put the pancakes too close together as they will spread during cooking. Cook the pancakes on one side for about 1-2 mins or until lots of tiny bubbles start to appear and pop on the surface. Flip the pancakes over and cook for a further minute on the other side. Repeat until all the batter is used up.",
+            "Serve your pancakes stacked up on a plate with a drizzle of maple syrup and any of your favourite toppings."
+        ],
+        "image": "https://user-images.githubusercontent.com/17568508/193010369-fd0e0480-4d20-44cb-97b5-f4706bd901e0.png"
+    }
+]

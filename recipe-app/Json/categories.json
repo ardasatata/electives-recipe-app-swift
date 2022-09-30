@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "label": "breakfast"
+    },
+    {
+        "id": 2,
+        "label": "lunch"
+    },
+    {
+        "id": 3,
+        "label": "dinner"
+    },
+    {
+        "id": 4,
+        "label": "dessert"
+    }
+]
